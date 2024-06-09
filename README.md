@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/kaveeshbhashitha">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kaveeshbhashitha&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=D8BFD8&bg_color=1A2B34&rank_icon=github" alt="Kaveesh's GitHub Stats" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kaveeshbhashitha&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=D8BFD8&bg_color=1A2B34" alt="Kaveesh's GitHub Stats" />
 </a>
 <!---
 kaveeshbhashitha/kaveeshbhashitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
