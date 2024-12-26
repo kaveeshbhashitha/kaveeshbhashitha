@@ -1,5 +1,5 @@
 ### My Bio 📜:
-- 👋 Hi, I’m [Bhashitha Kaveesh](@kaveeshbhashitha)
+- 👋 Hi, I’m [Bhashitha Kaveesh](kaveeshbhashitha.github.com)
 - 👀 I’m interested in Java, C#, C, Python, HTML 5, CSS 3, JS, React.js, Spring boot, Angular and .NET
 - 🌱 I’m currently learning Application design and Development
 - 💞️ I’m looking to collaborate on New job oppertunities on Internships, associate level or junior SE. 
